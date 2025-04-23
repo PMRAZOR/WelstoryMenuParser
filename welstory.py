@@ -15,7 +15,7 @@ KST = pytz.timezone("Asia/Seoul")
 
 # 기존 WEBHOOK_URL을 기본 URL로 변경
 MATTERMOST_BASE_URL = "https://meeting.ssafy.com"
-MATTERMOST_WEBHOOK_PATH = "본인_웹훅_주소소"
+MATTERMOST_WEBHOOK_PATH = "본인_웹훅_주소"
 USERNAME = "웰스토리_아이디"
 PASSWORD = "웰스토리_비번번^^"
 
