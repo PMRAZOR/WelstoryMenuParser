@@ -17,7 +17,7 @@ KST = pytz.timezone("Asia/Seoul")
 MATTERMOST_BASE_URL = "https://meeting.ssafy.com"
 MATTERMOST_WEBHOOK_PATH = "본인_웹훅_주소"
 USERNAME = "웰스토리_아이디"
-PASSWORD = "웰스토리_비번번^^"
+PASSWORD = "웰스토리_비번"
 
 
 def get_current_seoul_time():
